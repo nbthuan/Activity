@@ -28,7 +28,7 @@ public class Driver {
         fruits.forEach(System.out::println);
 
         // Sort fruitName, fruitQty
-        System.out.println("---------------------------------------------------------");
+        System.out.println("---------------Sort fruitName, fruitQty------------------");
         Collections.sort(fruits);
         fruits.forEach(System.out::println);
 
